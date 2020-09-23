@@ -19,10 +19,13 @@ EMAIL : emailteste4@bbmail.com, emailteste@bbmail.com
 
 
 ================================================
-             Banco do Nordeste
+            Banco do Nordeste - BNB
 ================================================
-EMAIL : maria.anzois@gmai.com
-PHONE : +5585985632145
+CPF   : 51269655060 ; 07565421030
+CNPJ  : 63773803000107 ; 90177517000143
+EMAIL : maria.anzois@gmai.com ; teste-dict-1@bnb.gov.br ; teste-dict-2@bnb.gov.br
+PHONE : +5585985632145 ; +5585985632149
+EVP   : bf28ecc4-b31d-4013-bf70-cf1baf5f5d78 ; 863b7e32-f33b-4745-ab86-b5d6eccf8afd
 ------------------------------------------------
 
 
