@@ -50,6 +50,7 @@ EMAIL : pixrecebimento01@bradesco.com.br
 ================================================
             BRB : 00000208
 ================================================
+EMAIL : clientepix2@brb.com.br *
 CPF   : 00005299233,06633956665,12332112332,18827356258,34028137187,35621861507,44228219624,52112742299,57592176408,60266317120,60300045735,62972211383,71108538614,80758176139,99157520240
 CNPJ  : 04549900287418,05052660396106,11364684920145,11591183424544,16067122038531,18118292477012,45712222828033,48863433338050,55744706809064,61736727427340,71688543022675,72525505109433,75536350016331,98793260739609,99162225332538
 EMAIL : amy.floyd.66185@brbtestmail.com,antoinette.verhagen.89772@brbtestmail.com,christal.redden.64179@brbtestmail.com,danny.scott.34612@brbtestmail.com,dustin.sao.18962@brbtestmail.com,essie.dwiggins.01603@brbtestmail.com,jeanie.deangelis.76826@brbtestmail.com,matthew.crowell.10639@brbtestmail.com,norman.ludwig.61572@brbtestmail.com,opal.mcquiller.78421@brbtestmail.com,patricia.briggs.84867@brbtestmail.com,robert.villarreal.80849@brbtestmail.com,ronald.diver.50695@brbtestmail.com,tammy.adams.53967@brbtestmail.com,veronica.garza.31040@brbtestmail.com
