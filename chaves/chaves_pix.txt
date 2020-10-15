@@ -50,13 +50,14 @@ EMAIL : pixrecebimento01@bradesco.com.br
 ================================================
             BRB : 00000208
 ================================================
-EMAIL : clientepix2@brb.com.br *
+EMAIL : clientepix2@brb.com.br*
 CPF   : 00005299233,06633956665,12332112332,18827356258,34028137187,35621861507,44228219624,52112742299,57592176408,60266317120,60300045735,62972211383,71108538614,80758176139,99157520240
 CNPJ  : 04549900287418,05052660396106,11364684920145,11591183424544,16067122038531,18118292477012,45712222828033,48863433338050,55744706809064,61736727427340,71688543022675,72525505109433,75536350016331,98793260739609,99162225332538
 EMAIL : amy.floyd.66185@brbtestmail.com,antoinette.verhagen.89772@brbtestmail.com,christal.redden.64179@brbtestmail.com,danny.scott.34612@brbtestmail.com,dustin.sao.18962@brbtestmail.com,essie.dwiggins.01603@brbtestmail.com,jeanie.deangelis.76826@brbtestmail.com,matthew.crowell.10639@brbtestmail.com,norman.ludwig.61572@brbtestmail.com,opal.mcquiller.78421@brbtestmail.com,patricia.briggs.84867@brbtestmail.com,robert.villarreal.80849@brbtestmail.com,ronald.diver.50695@brbtestmail.com,tammy.adams.53967@brbtestmail.com,veronica.garza.31040@brbtestmail.com
 PHONE : +5561903441008,+5561911349508,+5561915652144,+5561917081609,+5561917390750,+5561933203212,+5561963498340,+5561964340314,+5561966777588,+5561973768839,+5561975106889,+5561993877828,+5561995651785,+5561996831411,+5561999127750
 EVP   : 07a0942a-e6c3-4fbd-95cc-ee6363ffc0c0,301da43b-8892-4303-9bfa-4cd6c6a872a0,34905876-1119-4995-a37c-feb648fe9db2,3bfbaeee-6aa9-4d22-9375-ee64e3ea2971,54cc2cdc-e5c6-4951-8dd7-ab798f5500c1,6fd4ceb6-bc04-4fe4-85bd-8914fc868406,83df48c1-f049-4eb0-8bb8-575be1a89299,89288246-c6e1-4e9e-a925-c3a8ed12f456,8d136cd4-8527-4f50-b203-993d4fdda8ae,b7ac3336-597e-4330-ab3c-714f5d38d540,bde06dee-c5d8-4502-881a-d585bda336bd,c93b7b5d-9372-4c2d-ade6-7ba2befb854d,c975ec84-a8dd-44f0-b36e-fabbf172365a,db45cc51-c83f-4baf-a961-376fb0e1c1ec,de4aa8ff-a354-4c76-88db-acd9927169f6
 ------------------------------------------------
+* new!
 
 
 ================================================
@@ -102,7 +103,9 @@ EAIL  : btesting@gerencianet.com.br
 CPF   : 00019577087
 EMAIL : adriana01.oliveira@gmail.com, 	wbergamo32@gmail.com, adriana.dias30@gmail.com
 PHONE : +5511676037020, +5511991069985, +5511954653453
+PHONE : +5511984524145*, +5511977977977*
 ------------------------------------------------
+* new!
 
 
 ================================================
