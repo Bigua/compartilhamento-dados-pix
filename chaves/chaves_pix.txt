@@ -93,7 +93,7 @@ EVP   : c940c003-d3f7-4075-9b7c-7b06b9985ee8
 
 
 ================================================
-                Gerencia Net
+        Gerencia Net (tipo pagamento)
 ================================================
 CPF   : 10441918808
 EAIL  : btesting@gerencianet.com.br
