@@ -99,16 +99,17 @@ CPF   : 10441918808
 EAIL  : btesting@gerencianet.com.br
 CNPJ  : 09089356000118*
 ------------------------------------------------
-* new!
+
 
 ================================================
                    Santander
 ================================================
 CPF   : 00019577087
-EMAIL : adriana01.oliveira@gmail.com, 	wbergamo32@gmail.com, adriana.dias30@gmail.com
+EMAIL : pix@santander.com.br*, adriana01.oliveira@gmail.com, 	wbergamo32@gmail.com, adriana.dias30@gmail.com
 PHONE : +5511676037020, +5511991069985, +5511954653453
 PHONE : +5511984524145, +5511977977977*
 ------------------------------------------------
+* new!
 
 
 ================================================
