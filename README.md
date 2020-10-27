@@ -32,3 +32,10 @@
 ###### Banco BS2
 ###### Banrisul
 ---
+
+
+---
+ ## // gerador QR code online
+###### https://br.qr-code-generator.com/
+---
+
