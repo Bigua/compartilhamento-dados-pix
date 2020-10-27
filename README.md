@@ -35,7 +35,7 @@
 
 
 ---
- ## // gerador QR code online
-###### https://br.qr-code-generator.com/
+ ## // gerador QR code (base-64) online
+###### https://codebeautify.org/base64-to-image-converter
 ---
 
