@@ -1,0 +1,9 @@
+
+Faça um Pix para minha conta Safra:
+
+1. Copie este código;
+2. Utilize a função Pix Copia e Cola do app do seu banco. 
+3. Confira sempre o beneficiário do recurso
+--
+código:
+00020101021226760014BR.GOV.BCB.PIX2554pix-h.safra.com.br/gi/b33e968f4a684e469a6baa119dec1e08520400005303986540530.035802BR5922LUCIA PAUCZYNSKI KLAIC6009SAO PAULO622305192020102217550a6a9eb6304AA0C
