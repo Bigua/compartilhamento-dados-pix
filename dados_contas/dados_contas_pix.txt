@@ -147,8 +147,14 @@ pessoa : F
 
 
 ========================
-     iti (indireto)
+iti - Banco Itaucard S/A
 ========================
+ISPB   : 17192451
+agenc  : 0500
+conta  : 0241408558
+CPF    : 57254715601
+pessoa : F
+------------------------
 ISPB   : 17192451
 agenc  : 0500
 conta  : 0242218949
