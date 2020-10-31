@@ -7,7 +7,17 @@ repositório auxiliar de dados para testes entre Bancos
 
 ---
 ## chaves
-[Listagem de chaves PIX para testes](chaves)
+* [Banco do Brasil](chaves/BB.md)
+* [Banco do Nordeste](chaves/BNB.md)
+* [Bradesco](chaves/bradesco.md)
+* [BRB](https://github.com/eduardoenemark/pix-test/blob/master/chaves_brb_25102020)
+* [C6 Bank](chaves/C6.md)
+* [Caixa](chaves/caixa.md)
+* [Gerencia Net](chaves/gerencianet.md)
+* [Inter](chaves/inter.md)
+* [Itaú](chaves/itau.md)
+* [Santander](chaves/santander.md)
+* [SICREDI](chaves/sicredi.md)
 
 ---
 ## QRCodes
@@ -20,7 +30,7 @@ repositório auxiliar de dados para testes entre Bancos
 [Code Beautify](https://codebeautify.org/base64-to-image-converter)
 
 ---
-## Who's who?
+## who's who?
 [Quem é quem no grupo do telegram](contatos.md)
 
 ---
