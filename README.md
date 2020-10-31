@@ -1,41 +1,28 @@
-# pix-test
+# PIX
+repositório auxiliar de dados para testes entre Bancos
 
 ---
-## github Bacen pix<br>
-
-###### https://github.com/bacen/
-
----
-## // dados contas<br>
-###### Banco BS2
-###### Banco do Brasil
-###### Banco Inter
-###### Banrisul
-###### Bradesco
-###### BTG Pactual
-###### Santander
-###### Sicoob
+## dados contas
+[Listagem de contas dos bancos](contas)
 
 ---
-## // chaves
-###### Banco BS2
-###### Banco do Brasil
-###### Banco Inter
-###### Bradesco
-###### BRB
-###### Caixa
-###### Santander
-###### Sicredi
+## chaves
+[Listagem de chaves PIX para testes](chaves)
 
 ---
- ## // QR codes (est.)
-###### Banco BS2
-###### Banrisul
----
+## QRCodes
+[Listagem de QRCodes estáticos](qr-codes/estaticos)
 
+[Listagem de QRCodes Dinâmicos](qr-codes/dinamicos)
 
 ---
- ## // gerador QR code (base-64) online
-###### https://codebeautify.org/base64-to-image-converter
----
+## gerador QR code (base-64) online
+[Code Beautify](https://codebeautify.org/base64-to-image-converter)
 
+---
+## Who's who?
+[Quem é quem no grupo do telegram](contatos.md)
+
+---
+## github BACEN pix
+[BACEN](https://github.com/bacen/)
