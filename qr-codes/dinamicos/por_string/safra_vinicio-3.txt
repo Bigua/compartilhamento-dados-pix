@@ -1,0 +1,9 @@
+F/
+aça um Pix para minha conta Safra:
+
+1. Copie este código;
+2. Utilize a função Pix Copia e Cola do app do seu banco. 
+3. Confira sempre o beneficiário do recurso
+--
+código:
+00020101021226760014BR.GOV.BCB.PIX2554pix-h.safra.com.br/gi/cc39d712fc0646bfaf01348c89ecabe052040000530398654049.455802BR5921COM E IMP SERTIC LTDA6009SAO PAULO62230519202010251755fc725ae63048F33
