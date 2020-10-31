@@ -1,2 +1,2 @@
 # Contas de Testes com dados dos Bancos
-[C6](../contas/c6.md)
+[C6](../blob/contas/c6.md)
