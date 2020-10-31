@@ -1,5 +1,6 @@
 # pix-test
 
+    
 ---
 ## github Bacen pix<br>
 
@@ -32,10 +33,9 @@
 ###### Banco BS2
 ###### Banrisul
 ---
-
-
----
  ## // gerador QR code (base-64) online
 ###### https://codebeautify.org/base64-to-image-converter
 ---
-
+## Who's who?
+[contados do grupo](contatos.md)
+=======
