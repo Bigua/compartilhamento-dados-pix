@@ -1,5 +1,5 @@
 Contas de Testes dos Bancos
 =====
-* [Banco ABC](ABC.md)
-* [Banco do Brasil](BB.md)
-* [C6 Bank](C6.md)
+* [Banco ABC](../bancos/ABC.md)
+* [Banco do Brasil](/bancos/BB.md)
+* [C6 Bank](bancos/ C6.md)
