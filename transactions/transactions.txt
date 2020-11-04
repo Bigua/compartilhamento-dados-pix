@@ -2,6 +2,10 @@
 =================================
           04/11/2020
 =================================
+Itau << Woop Sicredi
+E6074694820201104174063987dZfph0
+Erro ao receber PACs002. Transação em idempotencia
+---------------------------------
 Itau << BB
 E01722480202011041208DSSwmcup6xJ
 AC03 Pagamento rejeitado pelo PSP do recebedor
