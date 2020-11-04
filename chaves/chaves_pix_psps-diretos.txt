@@ -123,6 +123,6 @@ CNPJ  : 60701190000104
                            contas extrato
 =========================================================================
 CPF   : 34276822858                          | 150000654148 (varejo)
-EMAIL : extrato00654742@extrato.com          | 150000654742 (uniclass)
+EMAIL : extrato00654742@extrato.com          | 150000654742 (uniclass) *** conta com bloqueio total para testes negativos ***
 PHONE : +5511900575533                       | 397700575533 (personalite)
 ------------------------------------------------------------------------
