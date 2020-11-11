@@ -2,10 +2,6 @@
 repositório auxiliar de dados para testes entre Bancos
 
 ---
-## link para fazer parte do grupo no Telegram \o
-https://t.me/joinchat/ApmnDlilQV7U1Jmn8PoTYA
-
----
 ## dados contas
 [Listagem de contas dos bancos](contas)
 
